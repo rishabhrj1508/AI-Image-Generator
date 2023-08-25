@@ -1,4 +1,4 @@
-const API_KEY = "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";   
+const API_KEY = "";   
 
 const submitIcon = document.querySelector("#submit-icon");
 
